@@ -4,3 +4,6 @@
 [submodule "dockrelix-landing-page"]
 	path = dockrelix-landing-page
 	url = https://github.com/dockrelix/dockrelix-landing-page
+[submodule "dockrelix-agent"]
+	path = dockrelix-agent
+	url = https://github.com/dockrelix/dockrelix-agent.git
