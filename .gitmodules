@@ -1,0 +1,3 @@
+[submodule "dockrelix-backend"]
+	path = dockrelix-backend
+	url = https://github.com/dockrelix/dockrelix-backend
